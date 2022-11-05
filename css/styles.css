@@ -188,6 +188,7 @@ body {
   height: 120px;
   background-color: #f5f4fa;
   margin-bottom: 30px;
+  border-radius: 4px;
 }
 .benefits-title {
   position: absolute;
